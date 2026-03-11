@@ -44,7 +44,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Natalia-Vorobeva&theme=radical)](https://git.io/streak-stats)
 
 ### 🐍 Змейка, поедающая коммиты
-![GitHub Activity Snake](https://github.com/Natalia-Vorobeva/Natalia-Vorobeva/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity Snake](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/output/github-contribution-grid-snake.svg)
 
 ### 📊 График активности за последние 30 дней
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -82,11 +82,9 @@
 
 ## 📫 Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_nickname)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vorobjevaa)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:voebjeva.natalia76@gmail.com)
 
 ---
 
 ⭐️ Спасибо, что заглянули! Буду рада интересным задачам и тёплой атмосфере в команде.  
-Если мой профиль вас заинтересовал — пишите, договоримся!  
