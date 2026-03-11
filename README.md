@@ -39,6 +39,7 @@
 
 ### 🏆 Трофеи GitHub
 [![trophy](https://github-profile-trophy.vercel.app/?username=Natalia-Vorobeva&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Natalia-Vorobeva&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ⚡ Текущая серия коммитов
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Natalia-Vorobeva&theme=radical)](https://git.io/streak-stats)
@@ -47,6 +48,7 @@
 ![GitHub Activity Snake](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/output/github-contribution-grid-snake.svg)
 
 ### 📊 График активности за последние 30 дней
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
