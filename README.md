@@ -30,6 +30,7 @@
 ---
 
 ![GitHub Activity Snake](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/output/github-contribution-grid-snake.svg)
+<!-- ![GitHub Activity Snake](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/output/github-contribution-grid-snake.svg) -->
 
 ## 🚀 Избранные проекты
 
