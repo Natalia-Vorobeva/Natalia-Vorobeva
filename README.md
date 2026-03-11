@@ -1,8 +1,6 @@
 # Привет, я Наталья Воробьева 👋
 
 ![Age](https://img.shields.io/badge/age-49-blue)
-![Open to work](https://img.shields.io/badge/-Open%20to%20work-brightgreen)
-![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-61dafb)
 
 Я frontend‑разработчик с горящими глазами и огромным багажом живого опыта.  
 Да, мне 49 — и это мой козырь: я умею быстро учиться, доводить проекты до ума и не паникую в критических ситуациях.  
@@ -30,28 +28,12 @@
 
 ---
 
-## 📈 Статистика GitHub
-
-|  <a href="https://github.com/Natalia-Vorobeva"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Vorobeva&layout=compact&theme=radical" /></a> |
-| ------------- | 
-
-## 🔥 Моя активность
-
-### 🏆 Трофеи GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=Natalia-Vorobeva&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Natalia-Vorobeva&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ⚡ Текущая серия коммитов
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Natalia-Vorobeva&theme=radical)](https://git.io/streak-stats)
-
-### 🐍 Змейка, поедающая коммиты
-![GitHub Activity Snake](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/output/github-contribution-grid-snake.svg)
-
 ### 📊 График активности за последние 30 дней
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+![GitHub Activity Snake](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Избранные проекты
 
