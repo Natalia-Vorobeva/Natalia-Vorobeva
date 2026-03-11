@@ -28,14 +28,26 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Metrics](https://metrics.lecoq.io/Natalia-Vorobeva?template=classic&base.activity=0&base.community=0&base.repositories=0&config.timezone=Europe%2FMoscow)
-
 ---
 
 ## 📈 Статистика GitHub
 
 |  <a href="https://github.com/Natalia-Vorobeva"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Vorobeva&layout=compact&theme=radical" /></a> |
 | ------------- | 
+
+## 🔥 Моя активность
+
+### 🏆 Трофеи GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=Natalia-Vorobeva&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ⚡ Текущая серия коммитов
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Natalia-Vorobeva&theme=radical)](https://git.io/streak-stats)
+
+### 🐍 Змейка, поедающая коммиты
+![GitHub Activity Snake](https://github.com/Natalia-Vorobeva/Natalia-Vorobeva/blob/output/github-contribution-grid-snake.svg)
+
+### 📊 График активности за последние 30 дней
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
