@@ -2,15 +2,9 @@
 
 ![Age](https://img.shields.io/badge/age-49-blue)
 
-Я frontend‑разработчик с горящими глазами и огромным багажом живого опыта.  
+Я frontend‑разработчик с горящими глазами и багажом живого опыта.  
 Да, мне 49 — и это мой козырь: я умею быстро учиться, доводить проекты до ума и не паникую в критических ситуациях.  
 Сейчас активно ищу команду, где ценят профессионализм и человеческое отношение. Буду рада предложениям!
-
----
-<!-- ![](https://komarev.com/ghpvc/?username=Natalia-Vorobeva&color=brightgreen) -->
-
----
-<!-- ![GitHub Activity Snake](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/output/github-contribution-grid-snake.svg) -->
 
 ---
 
@@ -32,10 +26,13 @@
 
 ---
 
+> «Код как приправа — лучше немного, но с душой»
+
+---
 
 ## 🚀 Избранные проекты
 
-### 🎟 [Ticket Office — онлайн-бронирование билетов](https://ticket-office-booking.vercel.app/)
+### 🎟 Ticket Office — онлайн-бронирование билетов
 
 <img src="assets/ticket-office-main.png" alt="Ticket Office" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
@@ -46,20 +43,9 @@
 
 ---
 
----
+### 💬 Мессенджер с WebSocket и TypeScript
 
-> «Код как приправа — лучше немного, но с душой»  
-> — Наталья Воробьева
-
----
-
-
-<!-- ## 🚀 Избранные проекты -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=217397&random=true&width=600&height=52&lines=%C2%AB%D0%9A%D0%BE%D0%B4+%D0%BA%D0%B0%D0%BA+%D0%BF%D1%80%D0%B8%D0%BF%D1%80%D0%B0%D0%B2%D0%B0+%E2%80%94+%D0%BB%D1%83%D1%87%D1%88%D0%B5+%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%2C+%D0%BD%D0%BE+%D1%81+%D0%B4%D1%83%D1%88%D0%BE%D0%B9%C2%BB" alt="Typing SVG" /></a>
-
-### 💬 [Мессенджер с WebSocket и TypeScript](https://messenger-ts-websocket-unit.vercel.app)
-
-<img src="assets/messenger-socket-info.png" alt="Messenger WebSocket" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
+<img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket" style="max-width: 300px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
 Трёхколоночный чат с real‑time синхронизацией, лайками, комментариями и базой данных PostgreSQL/SQLite.  
 *React 19, TypeScript, Redux Toolkit, Socket.IO, Node.js, Express, SQLite*
@@ -68,7 +54,7 @@
 
 ---
 
-### 💬 [Мессенджер Real-time (JavaScript)](https://messenger-full.vercel.app/)
+### 💬 Мессенджер Real-time (JavaScript)
 
 <img src="assets/messenger.jpg" alt="Messenger Real-time" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
@@ -79,7 +65,7 @@
 
 ---
 
-### 🎨 [Лендинг о курсе акварели](https://petersburg-time-course.vercel.app/#about-course)
+### 🎨 Лендинг о курсе акварели
 
 <img src="assets/peterburg-course.jpg" alt="Aqua Course" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
@@ -90,7 +76,7 @@
 
 ---
 
-### ✉️ [Адаптивное email-письмо](https://natalia-vorobeva.github.io/email-final-discount/)
+### ✉️ Адаптивное email-письмо
 
 <img src="assets/email-discount-desktop-preview.png" alt="Email Template" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
@@ -100,36 +86,8 @@
 🔗 [Демо](https://natalia-vorobeva.github.io/email-final-discount/)
 
 ---
----
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<!-- «Код как приправа — лучше немного, но с душой». 
-Кликайте на названия — откроются демо или репозитории. -->
-
-<!-- ### 🎟 [Ticket Office — онлайн-бронирование билетов](https://ticket-office-booking.vercel.app/)
-Интерактивный сервис с визуальной схемой зала, таймером бронирования и сохранением в `localStorage`.  
-*React, Redux Toolkit, Tailwind, Vite*
-
-### 💬 [Мессенджер с WebSocket и TypeScript](https://messenger-ts-websocket-unit.vercel.app)
-Трёхколоночный чат с real‑time синхронизацией, лайками, комментариями и базой данных PostgreSQL/SQLite.  
-*React 19, TypeScript, Redux Toolkit, Socket.IO, Node.js, Express, SQLite*
-
-### 📰 [Дашборд мировых новостей](https://d3-news.vercel.app/)
-Визуализация и фильтрация новостей в реальном времени с помощью d3.js.  
-*D3.js, API Integration, News Aggregation*
-
-### ✅ [ToDo List Fullstack](https://todo-react-node-sqlite-jwt.onrender.com/register)
-Приложение с регистрацией, JWT‑аутентификацией и SQLite.  
-*React, JWT, Express, SQLite, Tailwind, Render.com*
-
-### ✉️ [Адаптивное email‑письмо](https://natalia-vorobeva.github.io/email-final-discount/)
-Кросс‑клиентский шаблон, который корректно открывается в Outlook и на мобильных.  
-*HTML, CSS, Email‑вёрстка, Outlook VML*
-
-... и ещё много всего в [репозиториях](https://github.com/Natalia-Vorobeva?tab=repositories). -->
 
 ---
 
@@ -139,29 +97,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:voebjeva.natalia76@gmail.com)
 
 ---
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
----
-
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Gmail](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
-
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
-
-[![Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Gmail](https://img.shields.io/badge/Написать_письмо-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/your_username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail)](mailto:your.email@gmail.com)
-
----
-
-⭐️ Спасибо, что заглянули! Буду рада интересным задачам и тёплой атмосфере в команде.  
+⭐️ Спасибо, что заглянули! Буду рада интересным задачам и тёплой атмосфере в команде.
