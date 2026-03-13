@@ -35,7 +35,6 @@
 
 ## 🚀 Избранные проекты
 
-<!-- Проект 1: картинка слева -->
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
@@ -50,57 +49,61 @@
   </tr>
 </table>
 
-<!-- Проект 2: картинка справа (меняем порядок div-ов) -->
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: center;">
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <p><strong>💬 Мессенджер с WebSocket и TypeScript</strong></p>
-    <p>Трёхколоночный чат с real‑time синхронизацией, лайками, комментариями и базой данных PostgreSQL/SQLite.<br>
-    <em>React 19, TypeScript, Redux Toolkit, Socket.IO, Node.js, Express, SQLite</em></p>
-    <p>🔗 <a href="https://messenger-ts-websocket-unit.vercel.app">Демо</a> • <a href="https://github.com/Natalia-Vorobeva/messenger_ts_websocket_unit">GitHub</a></p>
-  </div>
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <p><strong>💬 Мессенджер с WebSocket и TypeScript</strong></p>
+      <p>Трёхколоночный чат с real‑time синхронизацией, лайками, комментариями и базой данных PostgreSQL/SQLite.<br>
+      <em>React 19, TypeScript, Redux Toolkit, Socket.IO, Node.js, Express, SQLite</em></p>
+      <p>🔗 <a href="https://messenger-ts-websocket-unit.vercel.app">Демо</a> • <a href="https://github.com/Natalia-Vorobeva/messenger_ts_websocket_unit">GitHub</a></p>
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+</table>
 
-<!-- Проект 3: картинка слева -->
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: center;">
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <img src="assets/messenger.jpg" alt="Messenger Real-time" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
-  </div>
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <p><strong>💬 Мессенджер Real-time (JavaScript)</strong></p>
-    <p>Чат-приложение с комментариями и загрузкой файлов.<br>
-    <em>React, Node.js, PostgreSQL, Vercel</em></p>
-    <p>🔗 <a href="https://messenger-full.vercel.app/">Демо</a></p>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <img src="assets/messenger.jpg" alt="Messenger Real-time" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <p><strong>💬 Мессенджер Real-time (JavaScript)</strong></p>
+      <p>Чат-приложение с комментариями и загрузкой файлов.<br>
+      <em>React, Node.js, PostgreSQL, Vercel</em></p>
+      <p>🔗 <a href="https://messenger-full.vercel.app/">Демо</a></p>
+    </td>
+  </tr>
+</table>
 
-<!-- Проект 4: картинка справа (лендинг о курсе акварели) -->
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: center;">
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <p><strong>🎨 Лендинг о курсе акварели</strong></p>
-    <p>Вёрстка и доработка существующего сайта с адаптивным дизайном.<br>
-    <em>React, jQuery, Bootstrap 4, Vite</em></p>
-    <p>🔗 <a href="https://petersburg-time-course.vercel.app/#about-course">Демо</a></p>
-  </div>
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <img src="assets/peterburg-course.jpg" alt="Aqua Course" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <p><strong>🎨 Лендинг о курсе акварели</strong></p>
+      <p>Вёрстка и доработка существующего сайта с адаптивным дизайном.<br>
+      <em>React, jQuery, Bootstrap 4, Vite</em></p>
+      <p>🔗 <a href="https://petersburg-time-course.vercel.app/#about-course">Демо</a></p>
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <img src="assets/peterburg-course.jpg" alt="Aqua Course" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+</table>
 
-<!-- Проект 5: картинка слева (email-письмо) -->
-<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 50px; align-items: center;">
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <img src="assets/email-discount-desktop-preview.png" alt="Email Template" width="300" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
-  </div>
-  <div style="flex: 1 1 45%; min-width: 280px;">
-    <p><strong>✉️ Адаптивное email-письмо</strong></p>
-    <p>Кросс‑клиентский шаблон, корректно открывающийся в Outlook и на мобильных устройствах.<br>
-    <em>HTML, CSS, Email‑вёрстка, Outlook VML</em></p>
-    <p>🔗 <a href="https://natalia-vorobeva.github.io/email-final-discount/">Демо</a></p>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <img src="assets/email-discount-desktop-preview.png" alt="Email Template" width="300" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <p><strong>✉️ Адаптивное email-письмо</strong></p>
+      <p>Кросс‑клиентский шаблон, корректно открывающийся в Outlook и на мобильных устройствах.<br>
+      <em>HTML, CSS, Email‑вёрстка, Outlook VML</em></p>
+      <p>🔗 <a href="https://natalia-vorobeva.github.io/email-final-discount/">Демо</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
