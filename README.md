@@ -24,54 +24,23 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
+<div style="width: 100%; max-width: 800px; margin: 0 auto;">
+  <img src="./metrics.plugin.isocalendar.2025.svg" alt="GitHub metrics 2025" style="width: 100%; height: auto;">
+</div>
 
-![GitHub metrics 2025](./metrics.plugin.isocalendar.2025.svg)
-<!-- ![GitHub metrics 2025](https://raw.githubusercontent.com/Natalia-Vorobeva/Natalia-Vorobeva/main/metrics.plugin.isocalendar.2025.svg) -->
-
-
-<style>
-  .project-row {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 30px;
-    margin-bottom: 50px;
-  }
-  .project-image, .project-description {
-    flex: 1 1 300px;
-    min-width: 250px;
-  }
-	
- .project-image img {
-  max-width: 100%;   
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  display: block;
-}
-  .project-description {
-    padding: 0 5px;
-  }
-  @media (max-width: 600px) {
-    .project-row {
-      flex-direction: column;
-      gap: 20px;
-    }
-    .project-description {
-      padding: 0;
-    }
-  }
-</style>
+---
+---
 
 ## 🚀 Избранные проекты
 
-<!-- Проект 1: Картинка слева -->
-<div class="project-row">
-  <div class="project-image">
-    <img src="assets/ticket-office-main.png" alt="Ticket Office"  width="500">
+<!-- Проект 1: картинка слева -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="assets/ticket-office-main.png" alt="Ticket Office" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
   </div>
-  <div class="project-description">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 0 5px;">
     <p><strong>🎟 Ticket Office — онлайн-бронирование билетов</strong></p>
     <p>Интерактивный сервис для выбора фильмов, дат и мест в кинотеатре с визуальной схемой зала, таймером бронирования и сохранением в localStorage.<br>
     <em>React, Redux Toolkit, Tailwind, Vite</em></p>
@@ -79,25 +48,25 @@
   </div>
 </div>
 
-<!-- Проект 2: Картинка справа -->
-<div class="project-row">
-  <div class="project-description">
+<!-- Проект 2: картинка справа -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 0 5px;">
     <p><strong>💬 Мессенджер с WebSocket и TypeScript</strong></p>
     <p>Трёхколоночный чат с real‑time синхронизацией, лайками, комментариями и базой данных PostgreSQL/SQLite.<br>
     <em>React 19, TypeScript, Redux Toolkit, Socket.IO, Node.js, Express, SQLite</em></p>
     <p>🔗 <a href="https://messenger-ts-websocket-unit.vercel.app">Демо</a> • <a href="https://github.com/Natalia-Vorobeva/messenger_ts_websocket_unit">GitHub</a></p>
   </div>
-  <div class="project-image">
-    <img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket"  width="250">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
   </div>
 </div>
 
-<!-- Проект 3: Картинка слева -->
-<div class="project-row">
-  <div class="project-image">
-    <img src="assets/messenger.jpg" alt="Messenger Real-time"  width="500">
+<!-- Проект 3: картинка слева -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="assets/messenger.jpg" alt="Messenger Real-time" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
   </div>
-  <div class="project-description">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 0 5px;">
     <p><strong>💬 Мессенджер Real-time (JavaScript)</strong></p>
     <p>Чат-приложение с комментариями и загрузкой файлов.<br>
     <em>React, Node.js, PostgreSQL, Vercel</em></p>
@@ -105,25 +74,25 @@
   </div>
 </div>
 
-<!-- Проект 4: Картинка справа (лендинг о курсе акварели) -->
-<div class="project-row">
-  <div class="project-description">
+<!-- Проект 4: картинка справа (лендинг о курсе акварели) -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 0 5px;">
     <p><strong>🎨 Лендинг о курсе акварели</strong></p>
     <p>Вёрстка и доработка существующего сайта с адаптивным дизайном.<br>
     <em>React, jQuery, Bootstrap 4, Vite</em></p>
     <p>🔗 <a href="https://petersburg-time-course.vercel.app/#about-course">Демо</a></p>
   </div>
-  <div class="project-image">
-    <img src="assets/peterburg-course.jpg" alt="Aqua Course"  width="250">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="assets/peterburg-course.jpg" alt="Aqua Course" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
   </div>
 </div>
 
-<!-- Проект 5: Картинка слева (email-письмо) -->
-<div class="project-row">
-  <div class="project-image">
-    <img src="assets/email-discount-desktop-preview.png" alt="Email Template"  width="300">
+<!-- Проект 5: картинка слева (email-письмо) -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px; margin-bottom: 50px;">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="assets/email-discount-desktop-preview.png" alt="Email Template" width="300" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block;">
   </div>
-  <div class="project-description">
+  <div style="flex: 1 1 300px; min-width: 250px; padding: 0 5px;">
     <p><strong>✉️ Адаптивное email-письмо</strong></p>
     <p>Кросс‑клиентский шаблон, корректно открывающийся в Outlook и на мобильных устройствах.<br>
     <em>HTML, CSS, Email‑вёрстка, Outlook VML</em></p>
