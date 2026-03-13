@@ -1,6 +1,6 @@
 # Привет, я - Наталья Воробьева 👋
 
-![Age](https://img.shields.io/badge/age-49-blue)
+<img src="https://img.shields.io/badge/age-49-blue" alt="Age" style="pointer-events: none;">
 
 Я frontend‑разработчик с горящими глазами и багажом живого опыта.  
 Да, мне 49 — и это мой козырь: я умею быстро учиться, доводить проекты до ума и не паникую в критических ситуациях.  
@@ -8,26 +8,26 @@
 
 ---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="pointer-events: none;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="pointer-events: none;">
 
 ---
 
 <div style="width: 100%; max-width: 800px; margin: 0 auto;">
-  <img src="./metrics.plugin.isocalendar.2025.svg" alt="GitHub metrics 2025" style="width: 100%; height: auto;">
+  <img src="./metrics.plugin.isocalendar.2025.svg" alt="GitHub metrics 2025" style="width: 100%; height: auto; pointer-events: none;">
 </div>
 
 ---
@@ -38,7 +38,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
-      <img src="assets/ticket-office-main.png" alt="Ticket Office" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="assets/ticket-office-main.png" alt="Ticket Office" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); pointer-events: none;">
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
       <p><strong>🎟 Ticket Office — онлайн-бронирование билетов</strong></p>
@@ -58,7 +58,7 @@
       <p>🔗 <a href="https://messenger-ts-websocket-unit.vercel.app">Демо</a> • <a href="https://github.com/Natalia-Vorobeva/messenger_ts_websocket_unit">GitHub</a></p>
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
-      <img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); pointer-events: none;">
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
-      <img src="assets/messenger.jpg" alt="Messenger Real-time" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="assets/messenger.jpg" alt="Messenger Real-time" width="500" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); pointer-events: none;">
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
       <p><strong>💬 Мессенджер Real-time (JavaScript)</strong></p>
@@ -86,7 +86,7 @@
       <p>🔗 <a href="https://petersburg-time-course.vercel.app/#about-course">Демо</a></p>
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
-      <img src="assets/peterburg-course.jpg" alt="Aqua Course" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="assets/peterburg-course.jpg" alt="Aqua Course" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); pointer-events: none;">
     </td>
   </tr>
 </table>
@@ -94,7 +94,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
-      <img src="assets/email-discount-desktop-preview.png" alt="Email Template" width="300" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="assets/email-discount-desktop-preview.png" alt="Email Template" width="300" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); pointer-events: none;">
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
       <p><strong>✉️ Адаптивное email-письмо</strong></p>
@@ -107,14 +107,14 @@
 
 ---
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true" alt="Ashutosh's github activity graph" style="pointer-events: none;">
 
 ---
 
 ## 📫 Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vorobjevaa)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:voebjeva.natalia76@gmail.com)
+<a href="https://t.me/vorobjevaa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="pointer-events: none;"></a>  
+<a href="mailto:voebjeva.natalia76@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="pointer-events: none;"></a>
 
 ---
 
