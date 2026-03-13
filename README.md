@@ -8,32 +8,31 @@
 
 ---
 
+<!-- Две колонки: график слева, бейджи справа (блочно) -->
 <div style="width: 100%; max-width: 800px; margin: 0 auto;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <!-- Левая колонка: график -->
-      <td style="max-width: 80%; padding: 10px; vertical-align: middle;">
+      <!-- Левая колонка: график (70%) -->
+      <td style="width: 70%; padding: 10px; vertical-align: middle;">
         <img src="./metrics.plugin.isocalendar.2025.svg" alt="GitHub metrics 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
       </td>
-      <!-- Правая колонка: бейджи (теперь шире) -->
-      <td style="max-width: 40%; padding: 10px; vertical-align: top;">
-        <div style="display: flex; flex-direction: column; gap: 5px; align-items: flex-start;">
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="max-width: 100%; height: auto;">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%; height: auto;">
-        </div>
+      <!-- Правая колонка: бейджи (30%) – каждый как блочный элемент -->
+      <td style="width: 30%; padding: 10px; vertical-align: top;">
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="max-width: 100%; height: auto;"></div>
+        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%; height: auto;"></div>
       </td>
     </tr>
   </table>
