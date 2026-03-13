@@ -107,7 +107,7 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-Vorobeva&theme=react&hide_border=true&area=true)
 
 ---
 
