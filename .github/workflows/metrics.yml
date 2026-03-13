@@ -1,9 +1,21 @@
 name: Isometric commit calendar 2025
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.2025.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year     
-  plugin_isocalendar_year: 2025              
+
+# Запускать по расписанию (раз в день) и вручную
+on:
+  schedule:
+    - cron: "0 0 * * *"     # каждый день в 00:00 UTC
+  workflow_dispatch:         # кнопка для ручного запуска
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics for 2025
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.2025.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_year: 2025

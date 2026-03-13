@@ -34,7 +34,11 @@
 
 ### 🎟 Ticket Office — онлайн-бронирование билетов
 
-<img src="assets/ticket-office-main.png" alt="Ticket Office" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
+<img 
+src="assets/ticket-office-main.png" 
+alt="Ticket Office" 
+width="500" 
+style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
 Интерактивный сервис для выбора фильмов, дат и мест в кинотеатре с визуальной схемой зала, таймером бронирования и сохранением в localStorage.  
 *React, Redux Toolkit, Tailwind, Vite*
@@ -45,7 +49,11 @@
 
 ### 💬 Мессенджер с WebSocket и TypeScript
 
-<img src="assets/messenger-websocket-mobile.png" alt="Messenger WebSocket" style="max-width: 300px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
+<img 
+src="assets/messenger-websocket-mobile.png" 
+alt="Messenger WebSocket" 
+width="300" 
+style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
 Трёхколоночный чат с real‑time синхронизацией, лайками, комментариями и базой данных PostgreSQL/SQLite.  
 *React 19, TypeScript, Redux Toolkit, Socket.IO, Node.js, Express, SQLite*
@@ -56,7 +64,11 @@
 
 ### 💬 Мессенджер Real-time (JavaScript)
 
-<img src="assets/messenger.jpg" alt="Messenger Real-time" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
+<img 
+src="assets/messenger.jpg" 
+alt="Messenger Real-time" 
+width="500" 
+style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
 Чат-приложение с комментариями и загрузкой файлов.  
 *React, Node.js, PostgreSQL, Vercel*
@@ -67,7 +79,9 @@
 
 ### 🎨 Лендинг о курсе акварели
 
-<img src="assets/peterburg-course.jpg" alt="Aqua Course" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
+<img src="assets/peterburg-course.jpg" alt="Aqua Course" 
+width="400" 
+style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
 Вёрстка и доработка существующего сайта с адаптивным дизайном.  
 *React, jQuery, Bootstrap 4, Vite*
@@ -78,7 +92,9 @@
 
 ### ✉️ Адаптивное email-письмо
 
-<img src="assets/email-discount-desktop-preview.png" alt="Email Template" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
+<img src="assets/email-discount-desktop-preview.png" alt="Email Template" 
+width="500" 
+style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: block; margin: 1rem auto;">
 
 Кросс‑клиентский шаблон, корректно открывающийся в Outlook и на мобильных устройствах.  
 *HTML, CSS, Email‑вёрстка, Outlook VML*
