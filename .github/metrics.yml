@@ -1,0 +1,9 @@
+name: Isometric commit calendar 2025
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.2025.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year     
+  plugin_isocalendar_year: 2025              
