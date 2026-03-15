@@ -8,20 +8,17 @@
 
 ---
 
-<!-- Две колонки: график слева, бейджи справа (блочно) -->
 <div style="width: 100%; max-width: 800px; margin: 0 auto;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <!-- Левая колонка: график (70%) -->
       <td style="width: 70%; padding: 10px; vertical-align: middle;">
         <img src="./metrics.plugin.isocalendar.2025.svg" alt="GitHub metrics 2025" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
       </td>
-      <!-- Правая колонка: бейджи (30%) – каждый как блочный элемент -->
       <td style="width: 30%; padding: 10px; vertical-align: top;">
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="max-width: 100%; height: auto;"></div>
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="max-width: 100%; height: auto;"></div>
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%; height: auto;"></div>
-        <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="max-width: 100%; height: auto;"></div>
+				<div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" style="max-width: 100%; height: auto;"></div>
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="max-width: 100%; height: auto;"></div>
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="max-width: 100%; height: auto;"></div>
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="max-width: 100%; height: auto;"></div>
@@ -33,12 +30,19 @@
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" style="max-width: 100%; height: auto;"></div>
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="max-width: 100%; height: auto;"></div>
         <div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%; height: auto;"></div>
+				<div style="margin-bottom: 5px;">  <img src="https://img.shields.io/badge/Email%20Development-0078D4?style=for-the-badge&logo=&logoColor=white" alt="Email Development" style="max-width: 100%; height: auto;"></div>
+				<div style="margin-bottom: 5px;">
+				  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" style="max-width: 100%; height: auto;">
+				</div>
+				<div style="margin-bottom: 5px;">  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" style="max-width: 100%; height: auto;"></div>
+				<div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" style="max-width: 100%; height: auto;"></div>
+				<div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%; height: auto;"></div>
+				<div style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" style="max-width: 100%; height: auto;"></div>
       </td>
     </tr>
   </table>
 </div>
 
----
 ---
 
 ## 🚀 Избранные проекты
