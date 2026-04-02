@@ -4,7 +4,7 @@
 
 Я frontend‑разработчик с горящими глазами и багажом живого опыта.  
 Да, мне 49 — и это мой козырь: я умею быстро учиться, доводить проекты до ума и не паникую в критических ситуациях.  
-Сейчас активно ищу команду, где ценят профессионализм и человеческое отношение. Буду рада предложениям!
+Буду рада предложениям!
 
 ---
 
@@ -47,6 +47,20 @@
 
 ## 🚀 Избранные проекты
 
+
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
+  <tr>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <p><strong>💼 Агрегатор вакансий с фильтрацией и избранным</strong></p>
+      <p>Поиск работы с реальными фильтрами (удалёнка, зарплата, стаж, регион, исключение слов), лайками, скрытием вакансий, оценками и заметками. Данные из hh.ru, бэкенд на FastAPI с кэшированием навыков.<br>
+      <em>React 19, TypeScript, Tailwind CSS, Vite, FastAPI (Python), SQLite (планируется)</em></p>
+      <p>🔗 <a href="https://vacancy-ten.vercel.app">Демо</a> • <a href="https://github.com/Natalia-Vorobeva/vacancy">GitHub</a></p>
+    </td>
+    <td style="width: 50%; padding: 10px; vertical-align: middle;">
+      <img src="assets/images/vacancy-main.app.png" alt="Vacancy App screenshot" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+</table>
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 40px;">
   <tr>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
