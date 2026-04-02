@@ -57,7 +57,7 @@
       <p>🔗 <a href="https://vacancy-ten.vercel.app">Демо</a> • <a href="https://github.com/Natalia-Vorobeva/vacancy">GitHub</a></p>
     </td>
     <td style="width: 50%; padding: 10px; vertical-align: middle;">
-      <img src="assets/images/vacancy-main.app.png" alt="Vacancy App screenshot" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <img src="assets/vacancy-main.app.png" alt="Vacancy App screenshot" width="250" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     </td>
   </tr>
 </table>
